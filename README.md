@@ -1,5 +1,5 @@
 # GoStdDoc
-Go标准库学习笔记，对Golang标准库各模块进行整理
+Go标准库学习笔记，对Golang标准库各模块进行整理（持续更新中）
 # 目录
 * 数据结构相关
   * [堆](https://github.com/preytaren/GoStdDoc/blob/master/container/heap.md)
