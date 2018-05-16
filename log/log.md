@@ -49,8 +49,8 @@ import (
 )
 
 func main() {
-	prefix := "[THIS IS THE LOG]"
-	logger := log.New(os.Stdout, prefix, log.LstdFlags | log.Lshortfile)
+    prefix := "[THIS IS THE LOG]"
+    logger := log.New(os.Stdout, prefix, log.LstdFlags | log.Lshortfile)
     logger.Print("Hello World")
 }
 ```
@@ -71,18 +71,18 @@ Go的log模块没有对日志进行分级的功能，对于这部分需求可以
 package main
 
 import (
-	"os"
-	"log"
+    "os"
+    "log"
 )
 
 func main() {
-	var (
-		logger = log.New(os.Stdout, "INFO: ", log.Lshortfile)
-		infof = func(info string) {
-			logger.Print(info)
-		}
-	)
-	infof("Hello world")
+    var (
+	logger = log.New(os.Stdout, "INFO: ", log.Lshortfile)
+	infof = func(info string) {
+		logger.Print(info)
+	}
+    )
+    infof("Hello world")
 }
 ```
 
