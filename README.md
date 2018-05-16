@@ -1,4 +1,4 @@
-# go-doc-zh
+# GoStdDoc
 Go标准库学习笔记，对Golang标准库各模块进行整理（持续更新中）
 # 目录
 * 数据结构相关
@@ -11,4 +11,5 @@ Go标准库学习笔记，对Golang标准库各模块进行整理（持续更新
   * [锁，信号量 (sync)](https://github.com/preytaren/go-doc-zh/blob/master/sync/sync.md)
   * [原子操作 (sync/atomic)](https://github.com/preytaren/go-doc-zh/blob/master/sync/atomic.md)
   * [上下文 (context)](https://github.com/preytaren/go-doc-zh/blob/master/context/context.md)
-
+* 日志
+  * [日志(log)](https://github.com/preytaren/go-doc-zh/blob/master/log/log.md) 
