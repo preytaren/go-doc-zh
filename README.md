@@ -16,6 +16,7 @@ Go标准库学习笔记，对Golang标准库各模块进行整理（持续更新
 * IO
   * [IO](https://github.com/preytaren/go-doc-zh/blob/master/io/io.md) 
   * [IO工具(ioutil)](https://github.com/preytaren/go-doc-zh/blob/master/io/ioutil.md)
+  * [带缓冲IO(ioutil)](https://github.com/preytaren/go-doc-zh/blob/master/bufio/bufio.md)
 * 网络
   * [HTTP(net/http)](https://github.com/preytaren/go-doc-zh/blob/master/net/http/http.md)
 * 字符串
