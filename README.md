@@ -27,3 +27,5 @@ Go标准库学习笔记，对Golang标准库各模块进行整理（持续更新
   * [跨平台文件路径(filepath)](https://github.com/preytaren/go-doc-zh/blob/master/path/filepath.md)
 * 命令行
   * [命令行(flag)](https://github.com/preytaren/go-doc-zh/blob/master/flag/flag.md)
+* 错误处理
+  * [错误处理(errors)](https://github.com/preytaren/go-doc-zh/blob/master/errors/errors.md)
