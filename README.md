@@ -21,6 +21,7 @@ Go标准库学习笔记，对Golang标准库各模块进行整理（持续更新
   * [HTTP(net/http)](https://github.com/preytaren/go-doc-zh/blob/master/net/http/http.md)
 * 字符串
   * [字符串(strings)](https://github.com/preytaren/go-doc-zh/blob/master/strings/strings.md)
+  * [字符串转换(strconv)](https://github.com/preytaren/go-doc-zh/blob/master/strconov/strconv.md)
   * [字符串搜索(index/suffixarray)](https://github.com/preytaren/go-doc-zh/blob/master/index/suffixarray.md)
 * 操作系统相关
   * [文件路径(path)](https://github.com/preytaren/go-doc-zh/blob/master/path/path.md)
