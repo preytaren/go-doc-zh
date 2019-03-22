@@ -20,7 +20,7 @@ func main() {
    foo := flag.String("foo", false, "Foo")
    bar := flag.String("bar", "", "Bar")
    
-   flag.Pasrse()
+   flag.Parse()
    fmt.Print(*foo, *bar)
 }
 ```
@@ -60,7 +60,7 @@ var (
 )
 
 func main() {
-   flag.Pasrse()
+   flag.Parse()
    fmt.Print(*foo, *bar)
 }
 ```
